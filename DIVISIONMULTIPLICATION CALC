@@ -1,0 +1,14 @@
+START
+Input N1
+Input N2
+Input operator
+Int Multiplication = N1*N2
+Int Division = N1/N2
+IF operator == * THEN
+Display Multiplication
+ELSE IF operator == / THEN
+Display Division
+ELSE DISPLAY "INVALID OPERATOR"
+END IF
+END
+
