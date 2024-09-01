@@ -1,0 +1,16 @@
+START
+Input Num1
+Input Num2
+IF Num1>Num2 THEN
+SET Num2 to BINARY and store under the variable B2
+SET B2 to 2's complement and store under the variable B22
+SET Num1 to binary and store under the B1 variable
+Subtraction = B1 + B22
+Print Subtraction
+ELSE
+SET Num1 to binary and set to 2's complement and store under B11 variable
+SET Num2 to binary and store under B2 variable
+Subtraction = B2 + B11
+print Subtraction
+END IF
+END
