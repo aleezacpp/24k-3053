@@ -1,0 +1,11 @@
+START
+Input Num as integer
+Initialize loop counter to 0
+FOR all values from 1 to Num
+Divide Num from the values one by one until loop counter value is greater than Num value
+IF Num has multiples apart from 1 and Num itself
+THEN print "non-prime"
+ELSE print "prime"
+END IF
+END
+
