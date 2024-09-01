@@ -1,0 +1,14 @@
+START
+Declare "smallest_num" and initialize it to 2147483647
+Input Num1
+Input Num2
+Input Num3
+IF Num1<smallest_num THEN
+assign the value of Num1 to the smallest_num variable
+END IF
+IF Num2<smallest_num THEN
+assign the value of Num2 to the smallest_num variable
+END IF
+IF Num3<smallest_num THEN
+assign the value of Num3 to the smallest_num variable
+END IF
