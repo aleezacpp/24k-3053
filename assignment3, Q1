@@ -2,7 +2,7 @@ Q1 : The maximum number of digits an int variable can display is 2147483647, 300
 
 #include <stdio.h>
 int main(){
-signed long int x = 3000000000 ;
-printf("Number is %ld \n" , x);
+unsigned long int x = 3000000000 ;
+printf("Number is %lu \n" , x);
 return 0;
 }
