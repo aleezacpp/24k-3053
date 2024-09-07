@@ -1,0 +1,8 @@
+Q1 : The maximum number of digits an int variable can display is 2147483647, 3000000000 is obviously greater than its capacity hence the error.
+
+#include <stdio.h>
+int main(){
+unsigned long int x = 3000000000 ;
+printf("Number is %lu \n" , x);
+return 0;
+}
